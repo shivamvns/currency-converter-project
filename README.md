@@ -10,10 +10,15 @@ pip install tkinter
 pip install requests
 
 Steps to Build the Python Project on Currency Converter
+
 Real-time Exchange rates
+
 Import required Libraries
+
 CurrencyConverter Class
+
 UI for CurrencyConverter
+
 Main Function
 
 
